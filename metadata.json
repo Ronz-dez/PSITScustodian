@@ -1,0 +1,6 @@
+{
+  "name": "Student Organization Property Management System",
+  "description": "Offline-tolerant property borrowing, custody, and accountability platform with remote custodian approvals, QR code tracking, and student self-assessment returns.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
